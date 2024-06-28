@@ -3,13 +3,14 @@ body {
   }
   
   .navbar-default {
-    background-color: #a1a1a1;
+    background-color: #999999;
     border-color: #000;
     border: 4px solid #000;
   }
   
   .navbar-brand {
     font-size: 200%;
+    background-color: #999999;
     font-family: 'Arial', sans-serif;
     font-weight: bold;
     color: #000000;
